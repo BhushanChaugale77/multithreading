@@ -9,6 +9,9 @@ public class MyThread1 extends Thread {
 		
 		super();
 		this.counter = counter;
+		
+		
+		
 	}
 	
  	public void run() {
